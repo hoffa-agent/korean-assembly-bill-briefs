@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Korean Assembly Bill Briefs</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <p class="eyebrow">Daily GitHub Action digest</p>
+      <h1>Recent bills passed by South Korea’s National Assembly</h1>
+      <p class="lede">Plain-English summaries generated from the National Assembly’s official English plenary-results notices.</p>
+      <div class="meta" id="meta">Loading latest digest…</div>
+    </section>
+
+    <section class="toolbar">
+      <label>
+        Search
+        <input id="search" type="search" placeholder="security tokens, disaster, pension…" />
+      </label>
+      <a class="source" href="https://korea.assembly.go.kr:447/portalEn/bbs/B0000170/list.do?menuNo=1500099" target="_blank" rel="noreferrer">Official source ↗</a>
+    </section>
+
+    <section id="cards" class="cards" aria-live="polite"></section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
