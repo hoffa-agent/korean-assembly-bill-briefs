@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-06-17T23:53:23.006114+00:00",
+  "generated_at": "2026-06-19T23:32:19.285910+00:00",
   "source": "https://korea.assembly.go.kr:447/portalEn/bbs/B0000170/list.do?menuNo=1500099",
   "bills": [
+    {
+      "title": "Plenary passes four bills including amendment to the National Referendum Act",
+      "date": "Jun 19, 2026",
+      "url": "https://korea.assembly.go.kr:447/portalEn/bbs/B0000170/view.do?nttId=4754615&menuNo=1500099&sdate=&edate=&searchDtGbn=c0&pageUnit=10&pdCndCd=A&pageIndex=1",
+      "summary": "The plenary approved measures covering 국회사무처는 「개인정보 보호법」에 따라 정보주체의 개인정보 및 권익을 보호하고, 개인정보와 관련한 정보주체의 고충을 원활하게 처리할 수 있도록 다음과 같은 개인정보 처리방침을 두고 있습니다.; 소관업무 : 개인정보 침해사실 신고, 상담신청; 홈페이지 : privacy.kisa.or.kr.",
+      "key_points": [
+        "국회사무처는 「개인정보 보호법」에 따라 정보주체의 개인정보 및 권익을 보호하고, 개인정보와 관련한 정보주체의 고충을 원활하게 처리할 수 있도록 다음과 같은 개인정보 처리방침을 두고 있습니다.",
+        "소관업무 : 개인정보 침해사실 신고, 상담신청",
+        "홈페이지 : privacy.kisa.or.kr",
+        "주소 : (58324) 전라남도 나주시 진흥길 9 (빛가람동 301-2) 3층 개인정보침해 신고센터",
+        "소관업무 : 개인정보 분쟁조정신청, 집단분쟁조정(민사적 해결)",
+        "홈페이지 : www.kopico.go.kr",
+        "주소 : (03171) 서울특별시 종로구 세종대로 209 정부서울청사 4층"
+      ],
+      "items": [
+        {
+          "title": "Amendment to the National Referendum Act",
+          "summary": "The amendment comprehensively restructures the National Referendum Act to remedy unconstitutional provisions by guaranteeing voting rights to Korean nationals residing outside the country and lowering the voting age for national referendums, while also incorporating improved voting and vote-counting procedures. In 2014, the Constitutional Court ruled that the existing Act’s failure to grant voting rights to Koreans…"
+        },
+        {
+          "title": "Amendment to the Local Autonomy Act",
+          "summary": "The approved Special Act and the amendment establish a new category of local government known as an Integrated Metropolitan City and provide the legal basis for the creation of the Jeonnam–Gwangju Integrated Metropolitan City. Under the current legal framework, local governments are classified as a Special Metropolitan City, a Metropolitan City, a Special Self-Governing City, a Do (Province), and a Special…"
+        },
+        {
+          "title": "Amendment to the Child Benefits Act",
+          "summary": "The Amendment to the Child Benefits Act expands eligibility for child benefits payments to reduce the financial burden associated with raising children. The amendment raises the age limit for eligibility from children under 8 years of age to children under 13 years of age."
+        }
+      ]
+    },
     {
       "title": "Plenary passes amendment to the Court Organization Act",
       "date": "Jun 12, 2026",
@@ -189,39 +218,6 @@
         {
           "title": "Amendment to the Child Welfare Act",
           "summary": "The amendment expands the scope of child-related institutions subject to employment restrictions for individuals with prior child abuse convictions to include alternative education institutions registered with the superintendent of education of a Metropolitan City or a Province pursuant to the Act on Alternative Educational Institution. To prevent the recurrence of child abuse-related deaths, the Minister of Health…"
-        }
-      ]
-    },
-    {
-      "title": "Plenary passes 23 agenda items including amendment to the Act on the Prevention of and Countermeasures against Agricultural and Fishery Disasters",
-      "date": "Nov 26, 2025",
-      "url": "https://korea.assembly.go.kr:447/portalEn/bbs/B0000170/view.do?nttId=4238494&menuNo=1500099&sdate=&edate=&searchDtGbn=c0&pageUnit=10&pdCndCd=A&pageIndex=1",
-      "summary": "The plenary approved measures covering 국회사무처는 「개인정보 보호법」에 따라 정보주체의 개인정보 및 권익을 보호하고, 개인정보와 관련한 정보주체의 고충을 원활하게 처리할 수 있도록 다음과 같은 개인정보 처리방침을 두고 있습니다.; 소관업무 : 개인정보 침해사실 신고, 상담신청; 홈페이지 : privacy.kisa.or.kr.",
-      "key_points": [
-        "국회사무처는 「개인정보 보호법」에 따라 정보주체의 개인정보 및 권익을 보호하고, 개인정보와 관련한 정보주체의 고충을 원활하게 처리할 수 있도록 다음과 같은 개인정보 처리방침을 두고 있습니다.",
-        "소관업무 : 개인정보 침해사실 신고, 상담신청",
-        "홈페이지 : privacy.kisa.or.kr",
-        "주소 : (58324) 전라남도 나주시 진흥길 9 (빛가람동 301-2) 3층 개인정보침해 신고센터",
-        "소관업무 : 개인정보 분쟁조정신청, 집단분쟁조정(민사적 해결)",
-        "홈페이지 : www.kopico.go.kr",
-        "주소 : (03171) 서울특별시 종로구 세종대로 209 정부서울청사 4층"
-      ],
-      "items": [
-        {
-          "title": "<2> Amendments to the Act on the Prevention of and Countermeasures against Agricultural and Fishery Disasters and the Agricultural and Fishery Disaster Insurance Act",
-          "summary": "The amendment to the Act on the Prevention of and Countermeasures against Agricultural and Fishery Disasters centers on enabling the government to compensate for production costs incurred before a disaster occurs. Current disaster-support standards have been criticized for failing to reflect actual losses."
-        },
-        {
-          "title": "Act on Supporting Structural Reform of Private Universities*",
-          "summary": "The Act on Supporting Structural Reform of Private Universities aims to provide systematic support for the restructuring of private universities and incorporated educational foundations. Closures of local private universities due to financial distress have repercussions that extend far beyond the impacts on students and faculty, including diminished regional research capacity and economic impact to local communities."
-        },
-        {
-          "title": "Amendment to the Trucking Transport Business Act",
-          "summary": "The approved amendment reintroduces the Safe Trucking Freight Rates system for a three-year sunset period from Jan. 1, 2026 to Dec."
-        },
-        {
-          "title": "Act on the Promotion and Support of Village Enterprises*",
-          "summary": "The approved Act clarifies the legal basis for the financial and administrative support necessary for the establishment and operation of village enterprises and establishes grounds for devising comprehensive plans to support them in a systematic manner. Village enterprise promotion initiatives aim to enable area residents to utilize local resources to generate income and jobs while voluntarily addressing local…"
         }
       ]
     }
